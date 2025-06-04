@@ -27,19 +27,17 @@ A Python-based exploratory data analysis (EDA) project on **balaji fast food** u
 matplotlib and plotly 
 
 ## 🎯 OBJECTIVE 
-This project aims to analyze Balaji Fast Food’s sales data in order to:
+This analysis aims to answer the following business question:
 
-1️⃣ 🧑‍🍳 **Evaluate staff performance based on total sales handled
+1️⃣ **How do sales trend over time?**
 
-2️⃣ 🥇 **Identify top-selling items and underperforming products
+2️⃣ **What are the most and least popular items?**
 
-3️⃣ 📈 **Analyze sales trends over time to detect patterns and fluctuations
+3️⃣ **What are the preferred payment methods?**
 
-4️⃣ 🛍️ **Understand customer purchasing behavior and product preferences
+4️⃣ **What time of day generates the most revenue?**
 
-5️⃣ ⏰ **Assess sales performance across different time periods and transaction types
-
-6️⃣ 💡 **Provide data-driven recommendations to improve profitability and operational efficiency
+5️⃣ **Which staff members are driving the highest sales?**
 
 ## 🔍 KEY AREAS ANALYZED
 The analysis of Balaji Fast Food's sales data focused on the following critical areas:
@@ -56,16 +54,25 @@ The analysis of Balaji Fast Food's sales data focused on the following critical 
 
 ## 📊 DATASET OVERVIEW
 
-- **Order_ID**: Unique identifier assigned to each transaction
-- **Item_Name**: Name of the food or beverage item purchased
-- **Item_Type**: Category of the item (`Fast Food`, `Beverage`)
-- **Item_Price**: Price per unit of the item
-- **Quantity**: Number of units purchased in the transaction
-- **Transaction_Amount**: Total amount paid by the customer (Quantity × Item_Price)
-- **Transaction_Type**: Mode of payment (`Cash`, `POS`, `Transfer`, etc.)
-- **Received_By**: Staff member (including gender) who handled the transaction
-- **Date**: Date when the transaction took place
-- **Time_of_Sales**: Time of the transaction (Morning, Afternoon, Evening, Night)
+✅ **Order_ID**: Unique identifier assigned to each transaction
+
+✅ **Item_Name**: Name of the food or beverage item purchased
+
+✅ **Item_Type**: Category of the item (`Fast Food`, `Beverage`)
+
+✅ **Item_Price**: Price per unit of the item
+
+✅ **Quantity**: Number of units purchased in the transaction
+
+✅ **Transaction_Amount**: Total amount paid by the customer (Quantity × Item_Price)
+
+✅ **Transaction_Type**: Mode of payment (`Cash`, `Online` etc.)
+
+✅ **Received_By**: Staff member (including gender) who handled the transaction
+
+✅**Date**: Date when the transaction took place
+
+✅**Time_of_Sales**: Time of the transaction (Morning, Afternoon, Evening, Night)
 
 ## TOOLS USED:
 
