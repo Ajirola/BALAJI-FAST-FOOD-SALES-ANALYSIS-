@@ -1,4 +1,4 @@
-## BALAJI FAST FOOD SALES ANALYSTICS
+## BALAJI FAST FOOD SALES ANALYTICS
 
 ## TABLE OF CONTENTS 
  [Project Overview]()
@@ -146,7 +146,18 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 ## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
-1️⃣ **Sales Trends Overtime**
+1️⃣ **Total Revenue & Quantity Sold**
+
+
+![Screenshot](Screenshot_20250605-144144.jpg)
+
+
+**Total Revenue: 275,230**
+
+**Total Quantity Sold: 8,162 items**
+
+
+2️⃣ **Sales Trends Overtime**
 
 ![Screenshot](Screenshot_20250605-041252.jpg)
 
@@ -162,7 +173,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 
 
-2️⃣ **Quantity by item**
+3️⃣ **Quantity by item**
 
 ![Screenshot](Screenshot_20250605-041401.jpg)
 
@@ -171,7 +182,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 
 
-3️⃣ **Sales by Transaction type**
+4️⃣ **Sales by Transaction type**
 
 ![Screenshot](Screenshot_20250605-041417.jpg)
 
@@ -180,7 +191,7 @@ Over **88%** of transactions were traceable by type. **Cash** accounted for **48
 
 
 
-4️⃣ **Sales by Time of day**
+5️⃣ **Sales by Time of day**
 
 ![Screenshot](Screenshot_20250605-041434.jpg)
 
@@ -188,7 +199,7 @@ Over **88%** of transactions were traceable by type. **Cash** accounted for **48
 
 
 
-5️⃣ **Sales by Staff**
+6️⃣ **Sales by Staff**
 
 ![Screenshot](Screenshot_20250605-041502.jpg)
 
