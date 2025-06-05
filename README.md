@@ -9,17 +9,23 @@
   
  [Key areas analysed]() 
 
- [Dataset Overview]()
+ [Data Source]()
+
+ [Dataset Description]()
  
  [Tools]()
  
  [Methodology]()
 
  [Data cleaning]()
+
+ [Exploratory Data Analysis (EDA]()
  
- [Insights]() 
+ [Statistical Insights and Data Visualization]() 
  
  [Recommendation]() 
+
+ [Contant]()
 
 ## 📖 PROJECT OVERVIEW 
 This project explores and analyze transactional sales data of **Balaji Fast Food** from 2022-2023 using Python to uncover insights into product performance, sales trends, staff efficiency, and customer behavior patterns to recommend strategies to improve sales efficiency and profitability.
@@ -58,7 +64,7 @@ The analysis of Balaji Fast Food's sales data focused on the following critical 
 The data was obtained from kaggle website
 Here's the link to the dataset: https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report
 
-## 📊 DATASET OVERVIEW
+## 📊 DATASET DESCRIPTION 
 The data consist of 1000 records with 10 columns.
 
 ✅ **Order_ID**: Unique identifier assigned to each transaction
@@ -87,7 +93,7 @@ Python (Pandas,Matplotlib,Seaborn,Plotly)
 
 Jupyter Notebook 
 
-## METHODOLOGY 
+## 📒 METHODOLOGY 
 1️⃣ Data cleaning and preprocessing 
 
 2️⃣ Exploratory Data Analysis (EDA)
@@ -96,7 +102,7 @@ Jupyter Notebook
 
 4️⃣ Business Recommendation for balaji fast food
 
-## DATA CLEANING 
+## 📌 DATA CLEANING 
 To ensure data quality the following preposition steps where performed 
 
 ## 1️⃣ Handle missing value 
@@ -108,9 +114,10 @@ To prevent data redundancy duplicate records were removed.
 The results confirms no duplicate records exist in the dataset.
 
 ## 3️⃣ Data Formatting 
-To ensure data consistency and accuracy, the date column was converted from object to date format (yyyy-mm-dd)
+To ensure data consistency and accuracy, the date column was converted from object to date format and extracted month from date for monthly analysis.
 
-## EXPLORATORY DATA ANALYSIS (EDA)
+
+## 📈 EXPLORATORY DATA ANALYSIS (EDA)
 
 **Descriptive statistics**
 The sales data consists of 1000 records, exhibiting the following character:
@@ -137,7 +144,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
 
-## 🔍📊STATISTICAL INSIGHTS AND DATA VISUALIZATION 
+## 🔍📝STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
 1️⃣ **Sales Trends Overtime**
 
@@ -160,7 +167,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 ![Screenshot](Screenshot_20250605-041401.jpg)
 
 
-**Cold Coffee** made up **16.7%** of all items sold **1361** of total quantity sold **8162**. **Beverages** accounted for over **32%** of total volume, suggesting **strong customer preference**
+**Cold Coffee (1,361 units)** and **Sugarcane Juice (1,278 units)** were the top 2 selling items, contributing **32.3%** of total volume, suggesting **strong customer preference**
 
 
 
@@ -168,7 +175,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 ![Screenshot](Screenshot_20250605-041417.jpg)
 
-Over **88%** of transactions were traceable by type. **Cash** dominated **48.3%** but shifting toward digital with  **40.2%**
+Over **88%** of transactions were traceable by type. **Cash** accounted for **48.3%** of sales **(132,840)**, while **Online payments** were **40.2%** **(110,595).**
 
 
 
@@ -191,12 +198,21 @@ Over **88%** of transactions were traceable by type. **Cash** dominated **48.3%*
 
 
 
+## ✅ RECOMMENDATION 
+1️⃣ **Extend Night-Time Operations:** Consider extending business hours, launching late-night combo deals, or offering exclusive night-time discounts.
+
+2️⃣ **Focus on Beverage Promotions:** Offer combo deals pairing beverages with fast foods. Create seasonal beverage bundles to boost average order value.
+
+3️⃣ **Promote Digital Payments**: Encourage UPI/QR code payments with small cashback, stamps, or discounts to reduce cash handling and boost efficiency.
+
+4️⃣ **Investigate Post-Peak Revenue Decline:** Conduct surveys, check competitor activity, and review marketing strategies to understand declining trends.
+
+5️⃣ **Implement Staff-Level Sales KPIs:** Track sales per employee per shift. Offer incentives like "Top Seller of the Month" or product upsell bonuses.
+
+6️⃣ **Improve Data Collection Consistency:** Implement POS validation to require payment type input, ensuring more reliable analytics in the future.
 
 
-## RECOMMENDATION 
-1️⃣ 
-
-## Contact
+## 📞 Contact 
 Created by **Ajirola Amudat**  
 For inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
