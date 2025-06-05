@@ -129,20 +129,31 @@ The sales data consists of 1000 records, exhibiting the following character:
 4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
 
 ## 🔍📊STATISTICAL INSIGHTS AND DATA VISUALIZATION 
+
 1️⃣ **Sales Trends Overtime**
+
 ![Screenshot](Screenshot_20250605-041252.jpg)
 
+
 2️⃣ **Quantity by item**
+
 ![Screenshot](Screenshot_20250605-041401.jpg)
 
+
 3️⃣ **Sales by Transaction type**
+
 ![Screenshot](Screenshot_20250605-041417.jpg)
 
+
 4️⃣ **Sales by Time of day**
+
 ![Screenshot](Screenshot_20250605-041434.jpg)
 
+
 5️⃣ **Sales by Staff**
+
 ![Screenshot](Screenshot_20250605-041502.jpg)
+
 
 
 
