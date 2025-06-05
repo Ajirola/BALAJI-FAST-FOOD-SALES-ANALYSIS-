@@ -143,6 +143,17 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 ![Screenshot](Screenshot_20250605-041252.jpg)
 
+✅ **Best Month: September 2022 – 21,340**
+
+✅ **August 2022 was second with -21,285**
+
+❌ **Worst Month: December 2023 – 21,380**
+
+
+**Peak sales** occurred in **September 2022**, with revenue reaching **21,340**. This represented a monthly revenue peak that declined by over **93%** to **1,380** by December **2023.**
+
+
+
 
 2️⃣ **Quantity by item**
 
