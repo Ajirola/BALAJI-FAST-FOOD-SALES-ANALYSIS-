@@ -121,6 +121,7 @@ To ensure data consistency and accuracy, the date column was converted from obje
 ## 📈 EXPLORATORY DATA ANALYSIS (EDA)
 
 **Descriptive statistics**
+
 The sales data consists of 1000 records, exhibiting the following character:
 
 **Mean Sales**: **275.23**
