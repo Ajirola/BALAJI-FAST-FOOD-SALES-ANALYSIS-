@@ -28,10 +28,10 @@
  [Contant]()
 
 ## 📖 PROJECT OVERVIEW 
-This project explores and analyze transactional sales data of **Balaji Fast Food** from 2022-2023 using Python to uncover insights into product performance, sales trends, staff efficiency, and customer behavior patterns to recommend strategies to improve sales efficiency and profitability.
+This project explores and analyze transactional sales data of **Balaji Fast Food Sales** from 2022-2023 using Python to uncover insights into product performance, sales trends, staff efficiency, and customer behavior patterns to recommend strategies to improve sales efficiency and profitability.
 
 ## 🔍 DESCRIPTION
-A Python-based exploratory data analysis (EDA) project on **balaji fast food** using pandas,
+A Python-based exploratory data analysis (EDA) project on **balaji fast food sales** using pandas,
 matplotlib and plotly 
 
 ## 🎯 OBJECTIVE 
