@@ -54,6 +54,10 @@ The analysis of Balaji Fast Food's sales data focused on the following critical 
 
 5️⃣ **Payment and Transaction Methods** - Identified the most common transaction method
 
+## 📊 DATA SOURCE
+The data was obtained from kaggle website
+Here's the link to the dataset: https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report
+
 ## 📊 DATASET OVERVIEW
 The data consist of 1000 records with 10 columns.
 
@@ -80,6 +84,7 @@ The data consist of 1000 records with 10 columns.
 ## ⚒️ TOOLS USED:
 
 Python (Pandas,Matplotlib,Seaborn,Plotly)
+
 Jupyter Notebook 
 
 ## METHODOLOGY 
@@ -94,38 +99,42 @@ Jupyter Notebook
 ## DATA CLEANING 
 To ensure data quality the following preposition steps where performed 
 
-### 1️⃣ Handle missing value 
-After examining the missing value which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value
-**-Total Operational Revenue:** $9.68M
+## 1️⃣ Handle missing value 
+After examining the missing value which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value.
+To maintain data integrity missing value were identified and replaced with 'Unknown'.
 
-**-Gross Margin:** $4.01M
+## 2️⃣ Remove duplicate
+To prevent data redundancy duplicate records were removed.
+The results confirms no duplicate records exist in the dataset.
 
-**-Gross Margin %:** 41.5%
+## 3️⃣ Data Formatting 
+To ensure data consistency and accuracy, the date column was converted from object to date format (yyyy-mm-dd)
 
-### 2️⃣ Top Performing Month
+## EXPLORATORY DATA ANALYSIS (EDA)
 
-**-November recorded the best performance:**
+**Descriptive statistics**
+The sales data consists of 1000 records, exhibiting the following character:
 
-**-Revenue:** $1.18M
+**Mean Sales**: **275.23**
+**Standard deviation**: **204.40**
+**Minimum sales**: **20.00**
+**25%(Q1)**: **120.00**
+**50%(Median)**: **240.00**
+**75%(Q3)**: **360.00**
+**Maximum Sales**: **900.00**
 
-**-Gross Margin:** $496.5K
+1️⃣ Sales ranged from **20.00** to **900.00**, indicating a **wide variation** in customer spending habits.
+2️⃣ The average sales value is **275.23**, suggesting that most customers make **moderately** priced purchases.
+3️⃣ The smallest recorded transaction was **20.00**, likely reflecting a **single low-cost** item purchase.
+4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
 
-### 3️⃣ Top Supplier
-
-**-Two Brothers Mill leads in revenue ($5.12M) but has a low gross margin % (37.2%), suggesting potential cost inefficiencies.**
-
-**-Kappas Drinks maintains the highest margin % (56.4%) despite lower revenue, indicating stronger pricing or cost control.**
+## STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 
 
-### 4️⃣ Sales Channel Contribution
 
-**-Retail dominates across all categories:**
 
-**-Drinks:** $3.9M
 
-**-Food:** $0.6M
 
-**-Online sales** lag significantly and represent a major opportunity for growth.
 
 ## RECOMMENDATION 
 1️⃣ **Improve Margin Management for Top Suppliers:** Engage with Two Brothers Mill to explore cost optimization or pricing strategies to improve profitability.
