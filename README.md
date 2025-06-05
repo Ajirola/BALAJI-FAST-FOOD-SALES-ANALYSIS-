@@ -128,7 +128,9 @@ The sales data consists of 1000 records, exhibiting the following character:
 3️⃣ The smallest recorded transaction was **20.00**, likely reflecting a **single low-cost** item purchase.
 4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
 
-## STATISTICAL INSIGHTS AND DATA VISUALIZATION 
+## 🔍📊STATISTICAL INSIGHTS AND DATA VISUALIZATION 
+1️⃣ **Sales Trends Overtime**
+![Sales_trends](Screenshot_20250605_041252.jpg)
 
 
 
