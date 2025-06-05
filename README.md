@@ -116,16 +116,25 @@ To ensure data consistency and accuracy, the date column was converted from obje
 The sales data consists of 1000 records, exhibiting the following character:
 
 **Mean Sales**: **275.23**
+
 **Standard deviation**: **204.40**
+
 **Minimum sales**: **20.00**
+
 **25%(Q1)**: **120.00**
+
 **50%(Median)**: **240.00**
+
 **75%(Q3)**: **360.00**
+
 **Maximum Sales**: **900.00**
 
 1️⃣ Sales ranged from **20.00** to **900.00**, indicating a **wide variation** in customer spending habits.
+
 2️⃣ The average sales value is **275.23**, suggesting that most customers make **moderately** priced purchases.
+
 3️⃣ The smallest recorded transaction was **20.00**, likely reflecting a **single low-cost** item purchase.
+
 4️⃣ 50% of the sales are **240.00**, indicating a **midpoint** sales distribution.
 
 ## 🔍📊STATISTICAL INSIGHTS AND DATA VISUALIZATION 
