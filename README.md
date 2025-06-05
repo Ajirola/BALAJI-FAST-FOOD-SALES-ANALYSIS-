@@ -107,7 +107,7 @@ Jupyter Notebook
 To ensure data quality the following preposition steps where performed 
 
 ## 1️⃣ Handle missing value 
-After examining the missing value which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value.
+After examining the dataset which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value.
 To maintain data integrity missing value were identified and replaced with 'Unknown'.
 
 ## 2️⃣ Remove duplicate
