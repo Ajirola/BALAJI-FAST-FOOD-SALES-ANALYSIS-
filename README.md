@@ -140,16 +140,7 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 
 ## RECOMMENDATION 
-1️⃣ **Improve Margin Management for Top Suppliers:** Engage with Two Brothers Mill to explore cost optimization or pricing strategies to improve profitability.
-
-2️⃣ **Scale High-Margin Suppliers:** Increase focus on suppliers like Kappas Drinks for their better return on sales.
-
-3️⃣ **Channel Strategy Optimization:** Strengthen the Online channel, especially for high-performing categories like Drinks.
-
-4️⃣ **Focus on High-Performing Months:** Replicate successful strategies from November to maintain performance consistency.
-
-5️⃣ **Team-Level Strategy:** Analyze and share best practices from high-performing Retail teams across other segments.
-
+1️⃣ 
 ## Contact
 Created by **Ajirola Amudat**  
 For inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ajirola-amudat-a-3083882b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
