@@ -130,7 +130,8 @@ The sales data consists of 1000 records, exhibiting the following character:
 
 ## 🔍📊STATISTICAL INSIGHTS AND DATA VISUALIZATION 
 1️⃣ **Sales Trends Overtime**
-![Sales_trends](Screenshot_20250605_041252.jpg)
+
+![Screenshot](Screenshot_20250605_041252.jpg)
 
 
 
