@@ -160,20 +160,33 @@ The sales data consists of 1000 records, exhibiting the following character:
 ![Screenshot](Screenshot_20250605-041401.jpg)
 
 
+**Cold Coffee** made up **16.7%** of all items sold **1361** of total quantity sold **8162**. **Beverages** accounted for over **32%** of total volume, suggesting **strong customer preference**
+
+
+
 3️⃣ **Sales by Transaction type**
 
 ![Screenshot](Screenshot_20250605-041417.jpg)
+
+Over **88%** of transactions were traceable by type. **Cash** dominated **48.3%** but shifting toward digital with  **40.2%**
+
+
 
 
 4️⃣ **Sales by Time of day**
 
 ![Screenshot](Screenshot_20250605-041434.jpg)
 
+**Night sales** outperformed all other time slots, generating nearly **62075** or **22.6%** of total revenue.
+
+
 
 5️⃣ **Sales by Staff**
 
 ![Screenshot](Screenshot_20250605-041502.jpg)
 
+
+**Male staff** slightly outperformed, handling over **52%** of revenue. 
 
 
 
