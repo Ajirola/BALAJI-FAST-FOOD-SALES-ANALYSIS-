@@ -13,14 +13,16 @@
  
  [Tools]()
  
- [Dashboard]()
+ [Methodology]()
+
+ [Data cleaning]()
  
  [Insights]() 
  
  [Recommendation]() 
 
 ## 📖 PROJECT OVERVIEW 
-This project explores and analyze transactional sales data from **Balaji Fast Food** using Python to uncover insights into product performance, sales trends, staff efficiency, and customer behavior patterns.
+This project explores and analyze transactional sales data of **Balaji Fast Food** from 2022-2023 using Python to uncover insights into product performance, sales trends, staff efficiency, and customer behavior patterns.
 
 ## 🔍 DESCRIPTION
 A Python-based exploratory data analysis (EDA) project on **balaji fast food** using pandas,
@@ -53,6 +55,7 @@ The analysis of Balaji Fast Food's sales data focused on the following critical 
 5️⃣ **Payment and Transaction Methods** - Identified the most common transaction method
 
 ## 📊 DATASET OVERVIEW
+The data consist of 1000 records with 10 columns.
 
 ✅ **Order_ID**: Unique identifier assigned to each transaction
 
@@ -74,20 +77,25 @@ The analysis of Balaji Fast Food's sales data focused on the following critical 
 
 ✅**Time_of_Sales**: Time of the transaction (Morning, Afternoon, Evening, Night)
 
-## TOOLS USED:
+## ⚒️ TOOLS USED:
 
+Python (Pandas,Matplotlib,Seaborn,Plotly)
+Jupyter Notebook 
 
-Excel: For data cleaning.
+## METHODOLOGY 
+1️⃣ Data cleaning and preprocessing 
 
-Power BI: For visualization and dashboard creation.
+2️⃣ Exploratory Data Analysis (EDA)
 
-## DASHBOARD PREVIEW 
+3️⃣ Statistical Insights and Data Visualization 
 
-![Revenue Dashboard](Screenshot_20250512_235307.jpg)
+4️⃣ Business Recommendation for balaji fast food
 
-## INSIGHTS GAINED
-### 1️⃣ Overall Performance
+## DATA CLEANING 
+To ensure data quality the following preposition steps where performed 
 
+### 1️⃣ Handle missing value 
+After examining the missing value which consist of 1000rows and 10 colums, analysis revealed that 107 records of 1000 records in transaction type contain missing value
 **-Total Operational Revenue:** $9.68M
 
 **-Gross Margin:** $4.01M
