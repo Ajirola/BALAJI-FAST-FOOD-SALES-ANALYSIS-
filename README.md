@@ -205,9 +205,8 @@ Over **88%** of transactions were traceable by type. **Cash** accounted for **48
 ![Screenshot](Screenshot_20250605-041502.jpg)
 
 
-**Male staff** slightly outperformed, handling over **52%** of revenue. 
 
-
+**Mr.** handled **143,440 (52.1%)** of revenue, compared to **Mrs.** with **131,790 (47.9%)**.
 
 
 ## ✅ RECOMMENDATION 
