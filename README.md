@@ -19,7 +19,7 @@
 
  [Data cleaning]()
 
- [Exploratory Data Analysis (EDA]()
+ [Exploratory Data Analysis (EDA)]()
  
  [Statistical Insights and Data Visualization]() 
  
