@@ -4,9 +4,11 @@
  [Project Overview]()
 
  [Description]() 
+
+ [Problem statement]()
  
  [Objective]() 
-  
+
  [Key areas analysed]() 
 
  [Data Source]()
@@ -33,6 +35,9 @@ This project explores and analyze transactional sales data of **Balaji Fast Food
 ## 🔍 DESCRIPTION
 A Python-based exploratory data analysis (EDA) project on **balaji fast food sales** using pandas,
 matplotlib and plotly 
+
+## PROBLEM STATEMENT 
+Balaji Fast Food faces challenges in optimizing sales performance due to uneven product demand, varying staff efficiency, and inconsistent revenue patterns throughout the day and week. While certain food items dominate sales, others underperform, potentially leading to inventory inefficiencies. Additionally, peak sales hours are not fully leveraged due to staffing and service gaps. The business relies heavily on cash payments, despite customer openness to digital options. Without data-driven strategies, these issues could limit profitability, operational efficiency, and customer satisfaction.
 
 ## 🎯 OBJECTIVE 
 This analysis aims to answer the following business question:
